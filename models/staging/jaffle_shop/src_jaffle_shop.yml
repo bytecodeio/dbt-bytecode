@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: "jaffle_shop"
+    database: "TRAINING_DB_EUGENE"
+    tables:
+      - name: "customers"
+      - name: "orders"
