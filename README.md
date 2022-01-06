@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+# dbt Bytecode Getting Started Doc
 
 ### Using the starter project
 
