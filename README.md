@@ -21,7 +21,7 @@ dbt is versatile in the way in which you interact with it. Many of you, so far, 
 
 ### Choosing an IDE
 
-Since the package for the dbt CLI is a python package, I use [Pycharm Professional](https://www.jetbrains.com/pycharm) from Jetbrains to run my dbt instances locally. But this isn't free so I wouldn't recommend using it unless you _REALLY_ like it. Here are some really great (and free) IDEs to use instead:
+Since the package for the dbt CLI is a python package, I use [Pycharm Professional](https://www.jetbrains.com/pycharm) from Jetbrains to run my dbt instances locally. But this isn't free so I wouldn't recommend using it unless you _REALLY_ like it. There is a free community version of Pycharm that has fewer features that you can find [here.](https://www.jetbrains.com/pycharm/download/#section=mac) Here are some really great (and free) IDEs to use as well:
 
 - [Microsoft Visual Studio Code](https://code.visualstudio.com) - Probably my second most preferred IDE. Has a lot of great functionality
 - [Atom](https://atom.io)
