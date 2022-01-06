@@ -1,4 +1,4 @@
-# dbt Bytecode Getting Started Doc
+# Bytecode dbt Getting Started Doc
 
 ### Using the starter project
 
