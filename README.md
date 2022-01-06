@@ -19,7 +19,7 @@ Try running the following commands:
 
 ### Using DBT in CLI
 
-1. Install DBT CLI via PIP (recommended for Windows or Linux) - [PIP DBT Installation] (https://docs.getdbt.com/dbt-cli/install/pip) or Homebrew (recommended for MacOS) - [Homebrew CLI Installation](https://docs.getdbt.com/dbt-cli/installation)
+1. Install DBT CLI via PIP (recommended for Windows or Linux) - [PIP DBT Installation](https://docs.getdbt.com/dbt-cli/install/pip) or Homebrew (recommended for MacOS) - [Homebrew CLI Installation](https://docs.getdbt.com/dbt-cli/installation)
 2. The project is already created in `dbt_project.yml`, you don't need to reconfigure it, but you will need a `profiles.yml` file in your `~/.dbt/` folder, as described [here](https://docs.getdbt.com/dbt-cli/configure-your-profile). An example Profile config can be found below. You will need to fill in the account, user and password of our Snowflake instance.
 Please remember that the `account` is not only the Snowflake account number, but also the Amazon Region, as in `abc-123456.us-east-2`.
 3. Configure your IDE / CLI autocompletion as described [here](https://discourse.getdbt.com/t/how-we-set-up-our-computers-for-working-on-dbt-projects/243).
