@@ -1,4 +1,4 @@
-# dbt Bytecode Getting Started Doc
+![](https://ibb.co/34Ck85G) # dbt Bytecode Getting Started Doc
 
 ### Using the starter project
 
